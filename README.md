@@ -13,7 +13,7 @@ I enjoy exploring how data can support decision-making in business, manufacturin
 ## Experience
 ### National Project (Ministry of Land, Infrastructure and Transport)
 **Jun 2020 - Dec 2020**
-- AI-Driven Artistic Convergence Platform utilizing Big Data
+- AI-driven Artistic Convergence Platform
 - Participated in AI service platform development leveraging big data analytics
 
 ### National Project (KAIST)
