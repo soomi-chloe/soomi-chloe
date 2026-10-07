@@ -41,7 +41,9 @@ I enjoy exploring how data can support decision-making in business, manufacturin
 - Applied data science for real-world problems
 
 ## Awards & Recognition
-<!-- Add your awards and achievements here -->
+- 제 4회 유통데이터 활용 경진대회(생성형AI솔루션 부문) 우수상
+- 2025-2 홍익대학교 학생 포상
+- 2026 MBN AI 혁신 해커톤 대회 우수상
 
 ## Currently Learning
 - Advanced machine learning concepts
@@ -51,8 +53,8 @@ I enjoy exploring how data can support decision-making in business, manufacturin
 
 ## Connect
 - GitHub: [soomi-chloe](https://github.com/soomi-chloe)
-- Email: your.email@example.com
-- LinkedIn: your-linkedin-profile
+- Email: chloe37@g.hongik.ac.kr
+- LinkedIn: -
 
 ---
 
