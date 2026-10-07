@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Soomi 👋
 
-<!--
-**soomi-chloe/soomi-chloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data-driven problem solver with a strong interest in analytics, machine learning, and building useful tools from data.
 
-Here are some ideas to get you started:
+I enjoy exploring how data can support decision-making in business, manufacturing, and process optimization — especially through interactive dashboards, statistical analysis, and applied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Passionate about data analysis and business intelligence
+- Interested in Python, R, machine learning, and time series analysis
+- Enjoy building dashboards and data apps with Streamlit
+- Learning continuously in computer science and AI
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Featured Projects
+- [BRATS2023 Segmentation](https://github.com/biohealthv1-5/brats2023w.segmentation)
+  Medical image segmentation project
+
+- [Unity Game Project](https://github.com/kaist-ougi/unity)
+  2020 KAIST interdisciplinary game development project
+
+- [Hongik Campus RAG Chatbot](https://github.com/2025-RAG-Project/hongik-campus-rag-chatbot)
+  RAG-based conversational AI for campus information
+
+- [SSOKK1.3](https://github.com/soomi-chloe/SSOKK1.3)
+  2019 diabetes management Android application
+
+## Areas of Interest
+- Data analysis and visualization
+- Business analytics
+- Statistical process control
+- Time series analysis
+- Machine learning and AI
+- Dashboard development
+- Applied data science for real-world problems
+
+## Awards & Recognition
+<!-- Add your awards and achievements here -->
+
+## Currently Learning
+- Advanced machine learning concepts
+- AI-driven analytics and decision support
+- Computer science fundamentals
+- Building more robust and scalable data projects
+
+## Connect
+- GitHub: [soomi-chloe](https://github.com/soomi-chloe)
+- Email: your.email@example.com
+- LinkedIn: your-linkedin-profile
+
+---
+
+> "Turning data into insight, and insight into action."
