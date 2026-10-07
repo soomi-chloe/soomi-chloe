@@ -11,6 +11,16 @@ I enjoy exploring how data can support decision-making in business, manufacturin
 - Learning continuously in computer science and AI
 
 ## Experience
+### National Project (Ministry of Land, Infrastructure and Transport)
+**Jun 2020 - Dec 2020**
+- Development of Art Convergence AI Service Platform Based on Big Data
+- Participated in AI service platform development leveraging big data analytics
+
+### National Project (KAIST)
+**Jun 2020 - Aug 2020**
+- Interdisciplinary Game Development Project (세대융합 게임 제작하기)
+- Collaborated on game design and development with cross-generational team
+
 ### Internship - VGEN
 **Jul 2026 - Aug 2026**
 - Worked on data analysis and analytics projects in a professional environment
