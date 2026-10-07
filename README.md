@@ -6,7 +6,7 @@
 
 ## About
 
-Results-driven data professional with proven expertise in analytics, machine learning, and business intelligence. Passionate about designing data-driven solutions that optimize processes and inform strategic decision-making. Experienced in building scalable analytics pipelines and AI applications across diverse domains.
+Results-driven data professional with proven expertise in analytics, machine learning, and business intelligence. Passionate about designing data-driven solutions that optimize processes and inform strategic decisions.
 
 **Key Strengths:** Statistical Analysis | Data Visualization | Machine Learning | Time Series Analysis | Business Intelligence | Process Optimization
 
@@ -33,11 +33,18 @@ Developed analytics solutions and optimized data pipelines in a professional env
 
 ## Technical Expertise
 
-**Languages & Frameworks:** Python | R | Java | C++ | C#
-
-**Databases & Analytics:** SQL | MySQL | MariaDB | PostgreSQL | Streamlit | Jupyter
-
-**Specializations:** Statistical Analysis | Machine Learning | Data Pipeline Development | Dashboard Development | Business Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge)
+![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-00AEEF?style=for-the-badge)
+![Business%20Intelligence](https://img.shields.io/badge/Business%20Intelligence-4CAF50?style=for-the-badge)
+![Time%20Series](https://img.shields.io/badge/Time%20Series-FF9800?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-%2300B0FF?style=for-the-badge)
 
 ---
 
