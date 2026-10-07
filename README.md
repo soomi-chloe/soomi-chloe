@@ -47,6 +47,7 @@ I enjoy exploring how data can support decision-making in business, manufacturin
 - 제 4회 유통데이터 활용 경진대회(생성형AI솔루션 부문) 우수상
 - 2025-2 홍익대학교 학생 포상
 - 2026 MBN AI 혁신 해커톤 대회 우수상
+- 홍익대학교 인공지능 학회 MATRIX 2024-1학기 컨퍼런스 최우수작
 
 ## Currently Learning
 - Advanced machine learning concepts
