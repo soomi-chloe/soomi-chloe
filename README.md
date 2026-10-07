@@ -10,6 +10,11 @@ I enjoy exploring how data can support decision-making in business, manufacturin
 - Enjoy building dashboards and data apps with Streamlit
 - Learning continuously in computer science and AI
 
+## Experience
+### Internship - VGEN
+**Jul 2026 - Aug 2026**
+- Worked on data analysis and analytics projects in a professional environment
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
