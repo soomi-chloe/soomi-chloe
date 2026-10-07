@@ -1,82 +1,78 @@
-# Hi, I'm Soomi 👋
+# Soomi Jang 👋
 
-I'm a data-driven problem solver with a strong interest in analytics, machine learning, and building useful tools from data.
+Data-driven professional with expertise in analytics, machine learning, and business intelligence. Skilled in translating complex data into actionable insights through statistical analysis, visualization, and applied AI solutions.
 
-I enjoy exploring how data can support decision-making in business, manufacturing, and process optimization — especially through interactive dashboards, statistical analysis, and applied AI.
+## Professional Summary
+- **Focus Areas:** Data Analytics | Business Intelligence | Machine Learning | Statistical Analysis | Dashboard Development
+- **Technical Expertise:** Python, R, SQL, Machine Learning, Time Series Analysis, Data Visualization
+- **Specialization:** AI-driven analytics, process optimization, data-driven decision support systems
 
-## About Me
-- Passionate about data analysis and business intelligence
-- Interested in Python, R, machine learning, and time series analysis
-- Enjoy building dashboards and data apps with Streamlit
-- Learning continuously in computer science and AI
+## Professional Experience
 
-## Experience
-### National Project (Ministry of Land, Infrastructure and Transport)
+### National Project - Ministry of Land, Infrastructure and Transport
 **Jun 2020 - Dec 2020**
-- AI-driven Artistic Convergence Platform
-- Participated in AI service platform development leveraging big data analytics
+- Development of Art Convergence AI Service Platform Based on Big Data
+- Designed and implemented AI-driven analytics pipeline for art convergence platform
+- Leveraged big data analytics to enhance platform functionality and user engagement
 
-### National Project (KAIST)
+### National Project - KAIST
 **Jun 2020 - Aug 2020**
 - Interdisciplinary Game Development Project (세대융합 게임 제작하기)
-- Collaborated on game design and development with cross-generational team
+- Collaborated across disciplines on game design, mechanics, and development
+- Contributed to cross-generational gameplay design and technical implementation
 
-### Internship - VGEN
+### Data Analytics Internship - VGEN
 **Jul 2026 - Aug 2026**
-- Worked on data analysis and analytics projects in a professional environment
+- Conducted data analysis and developed analytics solutions in professional environment
+- Built and optimized analytics pipelines for business intelligence projects
 
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Technical Stack
+
+**Programming Languages:** Python | R | Java | C++ | C#
+
+**Data & Databases:** SQL | MySQL | MariaDB | PostgreSQL
+
+**Analytics & Visualization:** Streamlit | Jupyter Notebook | Statistical Analysis
+
+**Tools & Platforms:** GitHub | Jupyter | Data Analysis & Visualization Tools
 
 ## Featured Projects
-- [BRATS2023 Segmentation](https://github.com/biohealthv1-5/brats2023w.segmentation)
-  Medical image segmentation project
 
-- [Unity Game Project](https://github.com/kaist-ougi/unity)
-  2020 KAIST interdisciplinary game development project
+| Project | Description |
+|---------|-------------|
+| [BRATS2023 Segmentation](https://github.com/biohealthv1-5/brats2023w.segmentation) | Medical image segmentation using deep learning for brain tumor analysis |
+| [Unity Game Project](https://github.com/kaist-ougi/unity) | 2020 KAIST interdisciplinary game development - cross-generational gameplay mechanics |
+| [Hongik Campus RAG Chatbot](https://github.com/2025-RAG-Project/hongik-campus-rag-chatbot) | RAG-based conversational AI system for campus information retrieval and support |
+| [SSOKK1.3](https://github.com/soomi-chloe/SSOKK1.3) | Diabetes management Android application with data tracking and analytics |
 
-- [Hongik Campus RAG Chatbot](https://github.com/2025-RAG-Project/hongik-campus-rag-chatbot)
-  RAG-based conversational AI for campus information
+## Core Competencies
 
-- [SSOKK1.3](https://github.com/soomi-chloe/SSOKK1.3)
-  2019 diabetes management Android application
+**Analytics & Intelligence:** Data Analysis | Business Intelligence | Statistical Process Control | Time Series Analysis | Data Visualization
 
-## Areas of Interest
-- Data analysis and visualization
-- Business analytics
-- Statistical process control
-- Time series analysis
-- Machine learning and AI
-- Dashboard development
-- Applied data science for real-world problems
+**AI & Machine Learning:** Machine Learning | Applied AI | Predictive Analytics | AI-Driven Decision Support
+
+**Technical Skills:** Data Pipeline Development | Dashboard Development | Statistical Modeling | Process Optimization
 
 ## Awards & Recognition
-- 2024.07 홍익대학교 인공지능 학회 MATRIX 2024-1학기 컨퍼런스 최우수작
-- 2025.11 제 4회 유통데이터 활용 경진대회(생성형AI솔루션 부문) 우수상
-- 2026.01 홍익대학교 학생 포상
-- 2026.08 MBN AI 혁신 해커톤 대회 우수상
 
-## Currently Learning
-- Advanced machine learning concepts
-- AI-driven analytics and decision support
-- Computer science fundamentals
-- Building more robust and scalable data projects
+- **2026.08** MBN AI Innovation Hackathon - Excellence Award
+- **2026.01** Hongik University Student Recognition Award
+- **2025.11** 4th Distribution Data Utilization Competition (Generative AI Solutions Track) - Excellence Award
+- **2024.07** Hongik University AI Society MATRIX 2024-1 Conference - Best Work Award
+
+## Professional Development
+
+Currently advancing expertise in:
+- Advanced machine learning concepts and applications
+- AI-driven analytics and decision support systems
+- Computer science fundamentals and theory
+- Scalable and robust data architecture
 
 ## Connect
-- GitHub: [soomi-chloe](https://github.com/soomi-chloe)
-- Email: chloe37@g.hongik.ac.kr
-- LinkedIn: -
+
+- **GitHub:** [soomi-chloe](https://github.com/soomi-chloe)
+- **Email:** chloe37@g.hongik.ac.kr
 
 ---
 
-> "Turning data into insight, and insight into action."
+> "Transforming data into strategic insights and actionable intelligence."
