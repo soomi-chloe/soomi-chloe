@@ -14,15 +14,15 @@ Results-driven data professional with proven expertise in analytics, machine lea
 
 ## Experience
 
-### Data Analytics Internship
-**VGEN** | Jul 2026 - Aug 2026
-
-Developed analytics solutions and optimized data pipelines in a professional environment. Built dashboards and reports supporting business intelligence initiatives.
-
 ### Undergraduate Researcher
 **Hongik University** | Apr 2025 - Present
 
 Participating in research projects focused on data-driven AI and analytics, collaborating with faculty and researchers to investigate practical applications of intelligent systems. Contribute to research design, data analysis, and prototype development in an academic research environment.
+
+### Data Analytics Internship
+**VGEN** | Jul 2026 - Aug 2026
+
+Developed analytics solutions and optimized data pipelines in a professional environment. Built dashboards and reports supporting business intelligence initiatives.
 
 ### National Project: Art Convergence AI Service Platform
 **Ministry of Land, Infrastructure and Transport** | Jun 2020 - Dec 2020
