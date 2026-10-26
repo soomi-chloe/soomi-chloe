@@ -6,13 +6,18 @@
 
 ## About
 
-Results-driven data professional with proven expertise in analytics, machine learning, and business intelligence. Passionate about translating complex data into actionable insights and developing data-driven solutions that improve decision-making and operational efficiency.
+Results-driven data professional with proven expertise in analytics, machine learning, and business intelligence. Passionate about translating complex data into actionable insights and developing data-driven solutions that create measurable value.
 
 **Key Strengths:** Statistical Analysis | Data Visualization | Machine Learning | Time Series Analysis | Business Intelligence | Process Optimization
 
 ---
 
 ## Experience
+
+### Data Analytics Internship
+**VGEN** | Jul 2026 - Aug 2026
+
+Developed analytics solutions and optimized data pipelines in a professional environment. Built dashboards and reports supporting business intelligence initiatives.
 
 ### Undergraduate Researcher
 **Hongik University** | Apr 2025 - Present
@@ -28,11 +33,6 @@ Contributed to the development of an AI-driven platform leveraging big data anal
 **KAIST** | Jun 2020 - Aug 2020
 
 Collaborated on cross-disciplinary game development, contributing to gameplay design and technical implementation. Enhanced understanding of game mechanics and user experience through collaborative development.
-
-### Data Analytics Internship
-**VGEN** | Jul 2026 - Aug 2026
-
-Developed analytics solutions and optimized data pipelines in a professional environment. Built dashboards and reports supporting business intelligence initiatives.
 
 ---
 
