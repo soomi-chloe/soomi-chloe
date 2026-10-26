@@ -14,10 +14,15 @@ Results-driven data professional with proven expertise in analytics, machine lea
 
 ## Experience
 
+### Undergraduate Researcher
+**Hongik University** | Apr 2025 - Present
+
+Conducting academic research in data-driven and AI-focused problem solving, contributing to interdisciplinary projects and exploring practical applications of analytics and intelligent systems in research settings.
+
 ### National Project: Art Convergence AI Service Platform
 **Ministry of Land, Infrastructure and Transport** | Jun 2020 - Dec 2020
 
-Contributed to the development of an AI-driven platform leveraging big data analytics for artistic convergence services. Implemented analytics pipelines and data-driven features to enhance platform capabilities.
+Contributed to the development of an AI-driven platform leveraging big data analytics for artistic convergence services. Implemented analytics pipelines and data-driven features to enhance platform capabilities and support decision-making.
 
 ### National Project: Interdisciplinary Game Development
 **KAIST** | Jun 2020 - Aug 2020
