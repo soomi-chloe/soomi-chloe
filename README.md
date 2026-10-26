@@ -6,7 +6,7 @@
 
 ## About
 
-Results-driven data professional with proven expertise in analytics, machine learning, and business intelligence. Passionate about designing data-driven solutions that optimize processes and inform strategic decisions.
+Results-driven data professional with proven expertise in analytics, machine learning, and business intelligence. Passionate about translating complex data into actionable insights and developing data-driven solutions that improve decision-making and operational efficiency.
 
 **Key Strengths:** Statistical Analysis | Data Visualization | Machine Learning | Time Series Analysis | Business Intelligence | Process Optimization
 
@@ -17,7 +17,7 @@ Results-driven data professional with proven expertise in analytics, machine lea
 ### Undergraduate Researcher
 **Hongik University** | Apr 2025 - Present
 
-Conducting academic research in data-driven and AI-focused problem solving, contributing to interdisciplinary projects and exploring practical applications of analytics and intelligent systems in research settings.
+Participating in research projects focused on data-driven AI and analytics, collaborating with faculty and researchers to investigate practical applications of intelligent systems. Contribute to research design, data analysis, and prototype development in an academic research environment.
 
 ### National Project: Art Convergence AI Service Platform
 **Ministry of Land, Infrastructure and Transport** | Jun 2020 - Dec 2020
