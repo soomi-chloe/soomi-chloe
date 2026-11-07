@@ -68,13 +68,15 @@ Collaborated on cross-disciplinary game development, contributing to gameplay de
 
 ## Recognition
 
+**2026.11** — Microbiome Data Curation Project Competition | Top Excellence Award (2nd Place)
+
 **2026.08** — MBN AI Innovation Hackathon | Excellence Award
 
 **2026.01** — Hongik University | Student Recognition Award
 
 **2025.11** — 4th Distribution Data Utilization Competition | Excellence Award (Generative AI Solutions)
 
-**2024.07** — Hongik University AI Society MATRIX Conference | Best Work Award
+**2024.07** — Hongik University AI Society MATRIX Conference | Top Excellence Award (2nd Place)
 
 ---
 
