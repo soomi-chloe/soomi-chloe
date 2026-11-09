@@ -74,7 +74,7 @@ Collaborated on cross-disciplinary game development, contributing to gameplay de
 
 **2026.01** — Hongik University | Student Recognition Award
 
-**2025.11** — 4th Distribution Data Utilization Competition | Excellence Award (Generative AI Solutions)
+**2025.11** — 4th Distribution Data Utilization Competition (Generative AI Solutions) | Excellence Award 
 
 **2024.07** — Hongik University AI Society MATRIX Conference | Top Excellence Award (2nd Place)
 
