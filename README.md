@@ -55,7 +55,7 @@ Participated in an interdisciplinary game development project, contributing to g
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Specializations:** Statistical Analysis | Machine Learning | Data Pipeline Development | Dashboard Development | Business Intelligence
+**Currently Learning:** Statistical Analysis | Machine Learning | Data Pipeline Development | Dashboard Development | Business Intelligence
 
 ![Statistical%20Analysis](https://img.shields.io/badge/Statistical%20Analysis-6A5ACD?style=for-the-badge)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge)
