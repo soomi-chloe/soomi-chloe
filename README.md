@@ -17,22 +17,22 @@ I am an undergraduate researcher at Hongik University with an interest in data a
 ### Undergraduate Researcher
 **Hongik University** | Apr 2025 - Present
 
-Participating in research projects focused on data-driven AI and analytics, collaborating with faculty and researchers to investigate practical applications of intelligent systems. Contribute to research design, data analysis, and prototype development in an academic research environment.
+Assist with research projects related to data-driven AI and analytics. Work with faculty and other researchers to explore practical applications of intelligent systems and contribute to ongoing research activities.
 
 ### Data Analytics Internship
 **VGEN** | Jul 2026 - Aug 2026
 
-Developed analytics solutions and optimized data pipelines in a professional environment. Built dashboards and reports supporting business intelligence initiatives.
+Worked on data analytics tasks, including improving data pipelines and preparing dashboards and reports for business intelligence initiatives.
 
 ### National Project: Art Convergence AI Service Platform
 **Ministry of Land, Infrastructure and Transport** | Jun 2020 - Dec 2020
 
-Contributed to the development of an AI-driven platform leveraging big data analytics for artistic convergence services. Implemented analytics pipelines and data-driven features to enhance platform capabilities and support decision-making.
+Participated in the development of the Art Convergence AI Service Platform. Contributed to analytics-related work and data-driven features for the platform.
 
 ### National Project: Interdisciplinary Game Development
 **KAIST** | Jun 2020 - Aug 2020
 
-Collaborated on cross-disciplinary game development, contributing to gameplay design and technical implementation. Enhanced understanding of game mechanics and user experience through collaborative development.
+Participated in an interdisciplinary game development project, contributing to gameplay design and technical implementation as part of a collaborative team.
 
 ---
 
