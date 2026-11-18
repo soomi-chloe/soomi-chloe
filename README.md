@@ -6,9 +6,9 @@
 
 ## About
 
-Results-driven data professional with proven expertise in analytics, machine learning, and business intelligence. Passionate about translating complex data into actionable insights and developing data-driven solutions that create measurable value.
+I am an undergraduate researcher at Hongik University with an interest in data analytics and AI. Through research and project work, I am developing experience in data analysis, machine learning, and business intelligence. I enjoy exploring data and communicating findings clearly, and I continue to build my skills through hands-on work.
 
-**Key Strengths:** Statistical Analysis | Data Visualization | Machine Learning | Time Series Analysis | Business Intelligence | Process Optimization
+**Areas of Focus:** Data Analysis | Statistical Analysis | Data Visualization | Machine Learning | Business Intelligence
 
 ---
 
